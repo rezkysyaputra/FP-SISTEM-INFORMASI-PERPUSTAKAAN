@@ -1,0 +1,121 @@
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.AssemblyReference.cache
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.SuggestedBindingRedirects.cache
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Form1.resources
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Properties.Resources.resources
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.GenerateResource.cache
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CoreCompileInputs.cache
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.InputData.resources
+D:\UTS - PEMROG LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.DataBuku.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Buffers.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Memory.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\ZstdSharp.dll
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.pdb
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Buffers.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Memory.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmAnggota.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmBuku.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmLogin.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmMenu.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmPeminjaman.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmPengembalian.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Properties.Resources.resources
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.GenerateResource.cache
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CopyComplete
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+C:\Users\ridho\Downloads\Compressed\Perpustakaan-20231220T083322Z-001\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Buffers.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Memory.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\ZstdSharp.dll
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.pdb
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Google.Protobuf.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Buffers.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Memory.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmAnggota.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmBuku.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmLogin.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmMenu.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmPeminjaman.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Properties.Resources.resources
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.GenerateResource.cache
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CopyComplete
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+C:\Users\ridho\Downloads\Compressed\FP_PEMROG-LANJUT\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.FrmLaporan.resources
